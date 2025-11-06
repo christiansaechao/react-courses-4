@@ -1,4 +1,3 @@
-import './styless.css';
 
 export const User = ({ children }) => {
   return (
