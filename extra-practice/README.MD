@@ -1,6 +1,6 @@
 # React Practice Exercises & Projects
 
-This repo contains progressively challenging exercises for practicing **React components, props, state, lists, events, conditional rendering, forms, and hooks**.  
+This repo contains progressively challenging exercises for practicing **React components, props, state, lists, events, conditional rendering, forms, and hooks**.
 Each section ends with **projects** that combine the concepts together.
 
 ---
@@ -8,20 +8,20 @@ Each section ends with **projects** that combine the concepts together.
 ## 🟢 Beginner Exercises (Basics, JSX, Components)
 
 ### Basic JSX Components
-- **Greeting Component** – Displays “Hello, [name]!” using props.  
-- **Static Profile Card** – User’s name, profile picture, and bio.  
-- **Company Logo** – Render an image with alt text.  
-- **Footer Component** – © year + company name.  
+- **Greeting Component** – Displays “Hello, [name]!” using props.
+- **Static Profile Card** – User’s name, profile picture, and bio.
+- **Company Logo** – Render an image with alt text.
+- **Footer Component** – © year + company name.
 
 ---
 
 ### Basic Components w/ useState
-- **Counter App** – + and – buttons.  
-- **Toggle Button** – Switch between ON/OFF.  
-- **Show/Hide Text** – Toggle paragraph visibility.  
-- **Simple Form Input** – Input box displays typed value.  
-- **Password Visibility Toggle** – Show/hide password.  
-- **Sidebar Toggle** – Open/close sidebar.  
+- **Counter App** – + and – buttons.
+- **Toggle Button** – Switch between ON/OFF.
+- **Show/Hide Text** – Toggle paragraph visibility.
+- **Simple Form Input** – Input box displays typed value.
+- **Password Visibility Toggle** – Show/hide password.
+- **Sidebar Toggle** – Open/close sidebar.
 
 ---
 
