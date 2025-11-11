@@ -1,5 +1,6 @@
 
 export const User = ({ children }) => {
+
   return (
     <>
         <nav className="navbar-styles">
