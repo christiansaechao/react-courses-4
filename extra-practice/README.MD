@@ -45,9 +45,9 @@ Each section ends with **projects** that combine the concepts together.
 
 ### ⭐ Beginner Projects (Combine Topics)
 1. **Employee Directory App**  
-   - Show employee cards (props + map)  
+   - Show employee cards (props + map) 
    - Add a search input (state)
-   - Toggle bio expand/collapse  
+   - Toggle bio expand/collapse
 
 2. **Simple Dashboard Widgets**  
    - Greeting banner
