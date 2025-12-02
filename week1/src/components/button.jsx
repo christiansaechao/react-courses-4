@@ -1,9 +1,9 @@
-import React from "react";
+import React from 'react'
 
-export const GeneralButton = ({ text, additionalStyles }) => {
+export const Button = ({ buttonText }) => {
   return (
-    <button className={`bg-red-500 p-2 rounded-full ${additionalStyles}`}>
-      {text}
-    </button>
-  );
-};
+    <button>{buttonText}</button>
+  )
+}
+
+export default Button;
